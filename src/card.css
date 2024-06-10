@@ -1,0 +1,25 @@
+.movie-card {
+    border-radius: 10px;
+    overflow: hidden;
+    width: 200px;
+    background-color: #f8a4cc;
+    box-shadow: 0 0 5px rgba(27, 16, 16, 0.5);
+    padding: 20px;
+    margin: 20px;
+}
+.poster-img {
+    width: 200px;
+    height: 250px;
+    border-radius: 30px;
+
+}
+.same-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.heading{
+    margin-top: -10px;
+}
+
+
